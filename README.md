@@ -1,0 +1,2 @@
+# flutter_miui_weather
+一个使用flutter仿照miui天气写的简易天气软件，支持windows和android
